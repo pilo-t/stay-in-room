@@ -5,3 +5,6 @@
 - 📫 How to reach me ...
 - 👑 My discord sever "https://discord.gg/gSxzCKzeUs"
 - 🤖 My discord bot "https://discord.com/oauth2/authorize?client_id=790269521901387806&permissions=8&scope=bot"
+- Package :
+- npm init -y
+- npm i discord.js@11
