@@ -6,7 +6,7 @@ const { token } = require("./token")
 bot.on("ready", async() => {
     console.log(`Ready`);
     setInterval(() => {
-        const channel = bot.channels.get("778906324179091467");
+        const channel = bot.channels.get("778906324179091467"); // Room_Id
         if (!channel) return console.error("I can't find this channel!");
         channel
           .join()
